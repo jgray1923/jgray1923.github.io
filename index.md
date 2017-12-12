@@ -1,7 +1,9 @@
 # Jennie Gray
 
-|Home | About Jen | PhD | MSc | LIDA | 
-|---|---|---|---|---|
+
+|Home    | About Jen |   PhD  | MSc    | LIDA  | 
+| :---:  |   :---:   |  :---: | :---:  | :---: |
+
 
 ![Image of Jen](https://pbs.twimg.com/profile_images/820009850897887238/HKzFRITJ_400x400.jpg)
 
