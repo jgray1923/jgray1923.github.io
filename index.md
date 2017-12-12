@@ -1,22 +1,12 @@
-## Welcome to GitHub Pages
+## Jennie Gray
 
-You can use the [editor on GitHub](https://github.com/jgray1923/jgray1923.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hi, I'm Jennie.
 
-### Markdown
+I'm currently a first year integrated PhD student upon the newly formed Data Analytics and Society CDT. My programme includes a part-time MSc in Data Analytics and Society over the first two years, running along side my 4 year PhD. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+More information regarding my PhD can be found [Link] (url) here. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
