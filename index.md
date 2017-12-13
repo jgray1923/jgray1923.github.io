@@ -1,7 +1,7 @@
 # Jennie Gray
 
 
-|[Home](index.md)    | [About Jen](AboutJen.md) |   [PhD](PhD.md)  | [MSc](MSc.md)    | Projects  | 
+|[Home](index.md)    | [About Jen](AboutJen.md) |   [PhD](PhD.md)  | [MSc](MSc.md)    | [Projects](PhD.md)  | 
 
 ![Image of Jen](https://pbs.twimg.com/profile_images/820009850897887238/HKzFRITJ_400x400.jpg)
 
