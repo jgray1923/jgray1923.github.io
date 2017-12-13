@@ -14,15 +14,8 @@ Women were much more effected by barriers, the prominant being the fear for thei
 
 ### MSc GIS - Major Research Project
 
-This research was an extension of my BSc dissertation, critically evaluating access via the ANGSt standards within Yorkshire and the Humber.
-However, this research with being GIS, focussed upon modelling and improving such standards, thus access to greenspaces. This research found that 
-local authorities within Yorkshire and the Humber often do not implement ANGSt as a standalone standard, rather alongside other national standards
-to improve ease of implementation. Furthermore, buffer methodology vastly overestimated access to larger greenspaces, whilst underestimating access to smaller
-greenspaces within closer proximity. The network analysis methodology is much more efficient in providing accurate assessments of greenspace accessibility.
+This research was an extension of my BSc dissertation, critically evaluating access via the ANGSt standards within Yorkshire and the Humber. However, this research with being GIS, focussed upon modelling and improving such standards, thus access to greenspaces. This research found that local authorities within Yorkshire and the Humber often do not implement ANGSt as a standalone standard, rather alongside other national standards to improve ease of implementation. Furthermore, buffer methodology vastly overestimated access to larger greenspaces, whilst underestimating access to smaller greenspaces within closer proximity. The network analysis methodology is much more efficient in providing accurate assessments of greenspace accessibility.
 
 Recommendations for improvement include an update to the ANGSt standards, including a quality of access standard, and thresholds or minimum targets
 for each standard. Also, Python programming within ArcGIS vastly increases modelling accuracy and efficiency, and should be implored within
 local authority greenspace analyses. 
-
-### PhD - Predictive Geodemographics
-
