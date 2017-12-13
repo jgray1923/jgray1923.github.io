@@ -13,5 +13,5 @@ The Integrated PhD programme includes an MSc Data Analytics and Society, in whic
 
 
 ### Programming for Social Science
-Includes an assignment in which we must develop a series of web pages. These GitHub Pages were written in Markdown, but [these](URL)
+Includes an assignment in which we must develop a series of web pages. These GitHub Pages were written in Markdown, but [these](https://github.com/jgray1923/WEBPRACTICEjgray1923.github.io)
 were written in and display my (fairly limited!) knowledge of HTML. 
