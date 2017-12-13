@@ -1,3 +1,5 @@
+|[Home](index.md)    | [About Jen](AboutJen.md) |   [PhD](PhD.md)  | [MSc](MSc.md)    | Projects  | 
+
 # PhD
 
 The Data Analytics and Society CDT is a new centre for doctoral training, funded by the ESRC, providing research across four universities:
