@@ -17,4 +17,4 @@ trajectory of individuals throughout their lifetimes, via a hierarchical classif
 Such a model will support lifetime evaluations of the geodemographic segment migration of both consumers and cizitens. 'Predictive Geodemographics' is in
 partnership with CallCredit, developers of geodemographic classification system, CAMEO. 
 
-I am privileged to be supervised by [Lex Comber](https://www.geog.leeds.ac.uk/people/a.comber) in the School of Geography, and [Lisa Buckner](http://www.sociology.leeds.ac.uk/people/staff/buckner) in the School of Sociology. 
+I am privileged to be supervised by [Prof. Lex Comber](https://www.geog.leeds.ac.uk/people/a.comber) in the School of Geography, and [Dr. Lisa Buckner](http://www.sociology.leeds.ac.uk/people/staff/buckner) in the School of Sociology. 
