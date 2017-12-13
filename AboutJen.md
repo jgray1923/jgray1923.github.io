@@ -13,7 +13,7 @@ in which I graduated with a distinction in 2017. My Major Research Proposal enti
 piece of research. Research methods included semi-structured interviews, policy evaluations, and upskilling into Python programming for computer modelling within ArcGIS. Again more information regarding this piece of research can be found in **projects**.
 
 ### Current Education
-I started my Itegrated PhD *'Predictive Geodemographics'* September 2017, in which I am completing another MSc in Data Analytics and Society (current projects within this masters can be found in **MSc**). 
+I started my Integrated PhD *'Predictive Geodemographics'* September 2017, in which I am completing another MSc in Data Analytics and Society (current projects within this masters can be found in **MSc**). 
 What drew me to this 'Predictive Geodemographics' PhD was the geographical perspective of geodemographics in which 
 I have lots of understanding of, and work with within my MSc, and the technical programming perspective of the modelling. 
 My desire to develop a model was fuelled by my MSc, as I initially planned on developing a fully automatic ANGSt analysis model, 
