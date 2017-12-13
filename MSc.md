@@ -1,4 +1,4 @@
-|[Home](index.md)    | [About Jen](AboutJen.md) |   [PhD](PhD.md)  | [MSc](MSc.md)    | Projects  | 
+|[Home](index.md)    | [About Jen](AboutJen.md) |   [PhD](PhD.md)  | [MSc](MSc.md)    | [Projects](Projects.md)  | 
 
 # MSc
 
