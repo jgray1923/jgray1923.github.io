@@ -2,8 +2,6 @@
 
 
 |[Home](index.md)    | [About Jen](AboutJen.md) |   [PhD](PhD.md)  | [MSc](MSc.md)    | Projects  | 
-| :---:  |   :---:   |  :---: | :---:  | :---: |
-
 
 ![Image of Jen](https://pbs.twimg.com/profile_images/820009850897887238/HKzFRITJ_400x400.jpg)
 
