@@ -8,8 +8,6 @@ The Integrated PhD programme includes an MSc Data Analytics and Society, in whic
 - Understanding Data and their Environment
 - Analysis of Human Dynamics
 - Social Analytics and Visualisation
-- Internship, and
-- Dissertation.
 
 ### Programming for Social Science
 
