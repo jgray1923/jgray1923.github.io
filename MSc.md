@@ -16,9 +16,9 @@ The ABM consisted of agents (sheep), each interacting with each other and their 
 
 Below are two outputs created to show the impact that the sheep have upon the environment within the ABM, the third shows the environment with the sheep's end locations. 
 
-|![Output1.png](EnvironmentBefore.png) |![Output2.png](EnvironmentAfter.png) | ![Output3.png](ModelOutput3.png)|
+|![Output1.png](Output1.png) |![Output2.png](Output2.png) | ![Output3.png](Output3.png)|
 |---|---|---|
-|*Environment before sheep interaction* |   *Environment after sheep interaction* | *Environment with sheep* |
+|*Environment before sheep interaction* |   *Environment after sheep interaction* | *Environment interaction with sheep* |
 
 The first assignment for this modules therefore includes an [online portfolio](https://github.com/jgray1923/Portfolio) of the ABM, a snippet of code can be seen below. 
 
