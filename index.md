@@ -11,10 +11,3 @@ I am based in the [Leeds Institute for Data Analytics](www.lida.leeds.ac.uk) (LI
 
 #### Contact: 
 If you ever need to contact me, I can be reached at: [gyjhg@leeds.ac.uk](mailto:gyjhg@leeds.ac.uk)
-
-[![LinkedIn](LinkedIn-Google-Plus-Profile-Pic-01)](https://www.linkedin.com/in/jennie-gray-039b0b88/)
-
-
-
-
-
