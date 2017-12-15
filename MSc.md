@@ -15,6 +15,7 @@ Programming for Social Science was the first module of the MSc, conducted as an 
 The ABM consisted of agents (sheep), each interacting with each other and their environment (a 300x300 grid). Interactions included movements, grazing the environment, sharing their store (eaten food) with other sheep within their neighbourhood, and also being sick if they were too greedy!
 
 ![Model Output](https://github.com/jgray1923/Portfolio/blob/master/Model%20Output3.png)
+
 The first assignment for this modules therefore includes an [online portfolio](https://github.com/jgray1923/Portfolio) of the ABM, a snippet of code can be seen below. 
 
 ```Python
