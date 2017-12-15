@@ -14,15 +14,11 @@ The Integrated PhD programme includes an MSc Data Analytics and Society, in whic
 Programming for Social Science was the first module of the MSc, conducted as an intense, week long module in which we, with the guidance of [Andy Evans](https://www.geog.leeds.ac.uk/people/a.evans), developed an agent-based model.
 The ABM consisted of agents (sheep), each interacting with each other and their environment (a 300x300 grid). Interactions included movements, grazing the environment, sharing their store (eaten food) with other sheep within their neighbourhood, and also being sick if they were too greedy!
 
-Below are two outputs created to show the impact that the sheep have upon the environment within the ABM. 
+Below are two outputs created to show the impact that the sheep have upon the environment within the ABM, the third shows the environment with the sheep's end locations. 
 
-
-|![Model Output](EnvironmentBefore.png) |![Model Output](EnvironmentAfter.png) | ![Model Output] (ModelOutput3.png)|
+|![Output1.png](EnvironmentBefore.png) |![Output2.png](EnvironmentAfter.png) | ![Output3.png](ModelOutput3.png)|
 |---|---|---|
-|*Environment before sheep interaction* |   *Environment after sheep interaction* | *Model example with sheep* |
-
- 
-
+|*Environment before sheep interaction* |   *Environment after sheep interaction* | *Environment with sheep* |
 
 The first assignment for this modules therefore includes an [online portfolio](https://github.com/jgray1923/Portfolio) of the ABM, a snippet of code can be seen below. 
 
