@@ -6,11 +6,11 @@
 
 This research was based upon a case study of Martinwells Lake at Edlington, Doncaster. A serious incident occured at location in 2009,
 and this research aimed to understand the barriers to access and engagement with this local greenspace. Findings concluded that there were
-many barriers to engagement with the site, including physical (poor entrance sites, uneven terrain unsuitable for pushchairs and mobility scooters), 
+many barriers to engagement with the site, including physical (poor entrance sites, uneven terrain unsuitable for pushchairs and mobility scooters, poor lighting), and 
 social (antisocial behaviour at location, fear of personal security). 
 
 Women were much more effected by barriers, the prominant being the fear for their personal security. Recommendations for improvement included current users of the site
-(eg. fishermen and dog walkers) to report any antisocial behaviour, and local 
+(eg. fishermen and dog walkers) to report any antisocial behaviour, and the Friends of Martinwells Lake group to continue with their monthly site clean-ups, in which they engage the local community. 
 
 ### MSc GIS - Major Research Project
 
